@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="Insurance_id">" বীমা"</string>
+    <string name="loan_title_id">" ঋণ"</string>
+    <string name="title_section1">" বাড়ি"</string>
+    <string name="title_section2">বীমা</string>
+    <string name="title_section3">বাড়ি</string>
+    <string name="title_section4">" প্রকল্প"</string>
+    <string name="title_section5">" ঠিকানা"</string>
+    <string name="title_section6">" সেটিংস"</string>
+    <string name="address_title_id">ঠিকানা</string>
+    <string name="schemes_Title">প্রকল্প</string>
+    <string name="search_button">" অনুসন্ধান"</string>
+    <string name="settings_Title">সেটিংস</string>
+
+</resources>
